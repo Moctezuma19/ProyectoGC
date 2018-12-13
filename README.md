@@ -10,4 +10,6 @@ Matplotlib para python3
 Somoclu para python3
 jre 1.8
 
-Los archivos .java tienen el algoritmo original
+Los archivos .java tienen el algoritmo original, 
+el script de python necesita tener un archivo fasta
+en el directorio de ejecucion.
